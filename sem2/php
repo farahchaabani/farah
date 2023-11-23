@@ -1,0 +1,11 @@
+<?php
+$html = <<<<HTML
+<html>
+  <head><title>foreach clé</title>
+  </head>
+<body>
+HTML;
+$tab6 = array('un'      => 12,
+              'deux'    => "fraise",
+               "trois"  => 2.5,
+               "quatre" =>"el5");
